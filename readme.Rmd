@@ -19,7 +19,7 @@ knitr::include_graphics("img/back_in_my_day.png")
 
 This package allows you to easily and quickly make a precautionary approach graph with a simple dataset.
 
-## Installation 
+# Installation 
 
 The installation requires beforehand to install devtools, than you can install and load "precAppGraph"
 
@@ -29,9 +29,9 @@ install_github("MathieuGenu/precAppGraph")
 ```
 
 
-## Usage
+# Usage
 
-# Herring dataset
+## Herring dataset
 
 A dataset is included in the package, it corresponds to the Herring fishery data of the greater north sea ecoregion (https://www.ices.dk/). The data set contains a data.frame and 4 parameters required to make a precautionary approach graph :
 
@@ -56,7 +56,7 @@ Herring_ICES$Herring_data %>%
 ```
 <br>
 
-# Graph
+## Graph
 
 To make the graph use the function pa_graph().
 ```{r, fig.retina=3}
@@ -76,7 +76,7 @@ NS_herring_pa <- pa_graph(
 
 ```
 
-# Customisation
+## Customisation
 
 pa_graph has a ggplot object in output, therefore, it is easy to modify it and add title, change labels,...
 
