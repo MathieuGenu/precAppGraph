@@ -5,12 +5,12 @@ precAppGraph package
 
 <br>
 
-This package allows you to easily and quickly make a precautionnary
+This package allows you to easily and quickly make a precautionary
 approach graph with a simple dataset.
 
 ## Installation
 
-The installation require beforehand to install devtools, than you can
+The installation requires beforehand to install devtools, than you can
 install and load “precAppGraph”
 
 ``` r
@@ -22,7 +22,7 @@ install_github("MathieuGenu/precAppGraph")
 
 # Herring dataset
 
-A dataset is included in the package, it correspond to the Herring
+A dataset is included in the package, it corresponds to the Herring
 fishery data of the greater north sea ecoregion
 (<https://www.ices.dk/>). The data set contains a data.frame and 4
 parameters required to make a precautionary approach graph :
@@ -68,7 +68,7 @@ NS_herring_pa <- pa_graph(
 
 <img src="readme_files/figure-gfm/unnamed-chunk-5-1.png" width="100%" />
 
-# customisation
+# Customisation
 
 pa\_graph has a ggplot object in output, therefore, it is easy to modify
 it and add title, change labels,…
