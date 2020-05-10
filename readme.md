@@ -1,7 +1,7 @@
 precAppGraph package
 ================
 
-<img src="img/back_in_my_day.png" width="60%" style="display: block; margin: auto;" />
+<img src="img/Back_in_my_day.png" width="60%" style="display: block; margin: auto;" />
 
 <br>
 
