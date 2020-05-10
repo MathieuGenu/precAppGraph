@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
 ```
 
 ```{r, out.width="60%", fig.align='center', echo = F}
-knitr::include_graphics("img/Back_in_my_day.png")
+knitr::include_graphics("img/back_in_my_day.png")
 ```
 
 <br>
