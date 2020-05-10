@@ -3,3 +3,6 @@
 ^building_sricpt\.R$
 ^LICENSE\.md$
 ^building_script\.R$
+^img$
+^readme\.rmd$
+^readme\.Rmd$
