@@ -1,0 +1,5 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^building_sricpt\.R$
+^LICENSE\.md$
+^building_script\.R$
